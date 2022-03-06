@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  /* margin-top: 15px; */
+  padding: 20px;
+  box-sizing: border-box;
+  color: #444;
+  background-color: #e5e7eb;
+}
+
+.value {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #059669;
+  background-color: #a7f3d0;
+  padding: 4px 4px;
+  font-size: 14px;
+  margin-left: 20px;
+  margin-top: 4px;
+}
+

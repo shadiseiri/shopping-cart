@@ -1,0 +1,66 @@
+export const productsData = [
+    {
+      id:1,
+      title: "gloves",
+      availableSizes: ["s", "xxL", "s"],
+      quantity: 10,
+      price: 4,
+    },
+    {
+      id:2,
+      title: "shirt",
+      availableSizes: ["L", "m", "xL"],
+      quantity: 6,
+      price: 38,
+    },
+    {
+      id:3,
+      title: "socks",
+      availableSizes: ["xs", "xxL", "m"],
+      quantity: 3,
+      price: 91,
+    },
+    {
+      id:4,
+      title: "gloves",
+      availableSizes: ["xxL", "xs", "m"],
+      quantity: 9,
+      price: 75,
+    },
+    {
+      id:5,
+      title: "top",
+      availableSizes: ["xxL", "xxL", "s"],
+      quantity: 9,
+      price: 85,
+    },
+    {
+      id:6,
+      title: "shirt",
+      availableSizes: ["xs", "xL", "L"],
+      quantity: 7,
+      price: 13,
+    },
+    {
+      id:7,
+      title: "shirt",
+      availableSizes: ["m", "s", "xL"],
+      quantity: 3,
+      price: 71,
+    },
+    {
+      id:8,
+      title: "skirt",
+      availableSizes: ["m", "s", "xxL"],
+      quantity: 5,
+      price: 18,
+    },
+    {
+      id:9,
+      title: "jean",
+      availableSizes: ["L", "xxL", "m"],
+      quantity: 7,
+      price: 86,
+    },
+  ];
+  
